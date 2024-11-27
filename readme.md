@@ -18,4 +18,3 @@ $ docker-compose up --build
 The application will be available at `http://localhost:8000`
 
 Swagger documentation will be available at `http://localhost:8000/swagger/`
-"""
